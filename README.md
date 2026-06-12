@@ -2,6 +2,12 @@
 
 A modern, fully functional age calculator web application that calculates your exact age down to years, months, and days.
 
+## 🌐 Live Demo
+
+**[View Age Calculator Live](https://virgil200.github.io/age-calculator/)**
+
+Try it now! Select your date of birth and get your exact age instantly.
+
 ## Features
 
 ✨ **Accurate Age Calculation**
@@ -29,7 +35,7 @@ A modern, fully functional age calculator web application that calculates your e
 
 ## How to Use
 
-1. Open `index.html` in your web browser
+1. Open the **[live demo](https://virgil200.github.io/age-calculator/)** or open `index.html` in your web browser
 2. Select your date of birth
 3. Click "Calculate Age" or press Enter
 4. View your detailed age statistics
@@ -39,6 +45,7 @@ A modern, fully functional age calculator web application that calculates your e
 - `index.html` - HTML structure and layout
 - `styles.css` - Modern styling and animations
 - `script.js` - Age calculation logic and functionality
+- `README.md` - Documentation
 
 ## Browser Support
 
@@ -54,7 +61,17 @@ Works on all modern browsers:
 - Mobile-responsive design
 - Accessible and user-friendly
 - Fast and lightweight
+- Hosted on GitHub Pages
+
+## Repository
+
+- GitHub: https://github.com/virgil200/age-calculator
+- Live Demo: https://virgil200.github.io/age-calculator/
 
 ## License
 
 Open source - feel free to use and modify!
+
+---
+
+**Made with ❤️ by [virgil200](https://github.com/virgil200)**
